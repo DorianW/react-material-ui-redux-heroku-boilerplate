@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: "Rubik", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  width: 100%;
+  color: #4b4b4b;
+}
+
+* {
+  touch-action: manipulation;
+}

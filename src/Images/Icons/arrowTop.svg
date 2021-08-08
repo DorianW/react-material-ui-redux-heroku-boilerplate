@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_417" data-name="Rectangle 417" width="25" height="25" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_535" data-name="Group 535" transform="translate(-32.453 -16.935)">
+    <g id="Group_441" data-name="Group 441" transform="translate(32.453 16.935)">
+      <g id="pfeil_-_rechts" data-name="pfeil - rechts" transform="translate(0 25) rotate(-90)">
+        <g id="pfeil_-_rechts-2" data-name="pfeil - rechts" clip-path="url(#clip-path)">
+          <path id="Path_1020" data-name="Path 1020" d="M.583,13.661a.591.591,0,0,1-.414-1.005L6.024,6.8.169.946A.591.591,0,0,1,1,.118L7.266,6.387a.591.591,0,0,1,0,.828l-6.21,6.269a.591.591,0,0,1-.414.177" transform="translate(9.788 5.699)" fill="#f97f21"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

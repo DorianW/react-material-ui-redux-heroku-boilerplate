@@ -1,0 +1,10 @@
+<svg id="ok_check_02" data-name="ok / check 02" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_458" data-name="Rectangle 458" width="28" height="28" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ok_check_02-2" data-name="ok / check 02" clip-path="url(#clip-path)">
+    <path id="Path_1107" data-name="Path 1107" d="M28,13.533A14,14,0,0,0,14,0h0a14,14,0,1,0,0,28h0A14,14,0,0,0,28,14.467v-.933M21.333,9.8l-9.467,9.467a.667.667,0,0,1-.933,0l-4.4-4.333a.684.684,0,1,1,1-.933L11.4,17.867l9-9a.667.667,0,1,1,.933.933" transform="translate(0 0)" fill="#fff"/>
+  </g>
+</svg>
